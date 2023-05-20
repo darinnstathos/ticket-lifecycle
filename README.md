@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,26 +25,52 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h3>Intake</h3>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p>We’re going to act as end-users in order to create some tickets and acquire a better understanding on how the osTicket platform operates.</p>
 
-<p>
+<p>In this example, we're going to pretend we're Karen, the manager that oversees Mobile Banking:</p>
+  
+1. Navigate to the end-user URL: http://localhost/osTicket/
+2. Select “Open a Ticket”
+3. Write in the fields provided: (for practice sake)
+
+- Email: karen@osticket.com
+- Name: Karen Karen
+- Help Topic [we created these earlier]: Business Critical Outage
+- Issue Summary: “Entire mobile banking system is down”
+- Extra Information: “Customers are reporting that they're getting a 404 error when browsing to online banking”
+
+4. Select "Create Ticket"
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br>
+
+<p>Now, we're going to pretend we're Ken from the Accounting Department and create another ticket for a different issue.</p>
+
+1. Select ‘Open a New Ticket'
+2. Write in the fields provided: (for practice sake)
+
+- Email: ken@osticket.com
+- Name: Ken Ken
+- Help Topic: 'Personal Computer Issues'
+- Extra information: ‘Ever since the upgrade last night, nobody in accounting has been able to use Adobe Reader’ 
+
+4. Select "Create Ticket"
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br>
+
+
+
+
+
+
+
+
+
+
