@@ -152,8 +152,36 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br>
 
+<h3>Working the Issue</h3>
 
+<p>Since this is John’s ticket now, we’re going to re-login to the Admin portal as John in order to start working on the ticket.</p>
 
+1. Login as John: username: john.doe / Password1
+2. We can see the ticket appear on John's dashboard
+3. John can look inside the ticket and see the communication that happened with Jane Doe: We can see it was reassigned as a SEV-B issue. John can see the problem is that Adobe Reader not working. Since it’s a SEV-B, John can conclude he was 4 hours to fix this due to SLA ruling. 
+4. John can write in the Ticket Thread to communicate how we plans to solve the issue: 
+
+- Example: “Rolled back version of Adobe Reader to previous version allowing the accounting department to work. 
+
+In the meantime, I will research why the new version doesn't work on the accounting department's hardware”
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br>
+
+<h3>Resolution</h3>
+
+1. For this example, John found the issue and now he’ll communicate in the Ticket Thread:
+
+<p>“Figured out the problem, re-upgraded everyone. Adobe Reader on the accounting department's device should be working”</p>
+
+2. Mark the ticket as ‘Resolved’
+3. Navigate to 'Tickets' > 'Closed' > The ticket has moved here 
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
