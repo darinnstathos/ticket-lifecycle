@@ -89,9 +89,68 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br>
 
-<h3>Assignment & Communication: Mobile Banking Ticket</h3>
+<h2>Mobile Banking Ticket</h2>
 
+<h3>Assignment & Communication</h3>
 
+<p>We’re going to go through these tickets right now and edit them/tweak them. Right now, it appears that the tickets all have ‘Normal’ priority.</p>
+
+1. Select the ticket ‘Entire Mobile Online Banking is Down’ ticket
+2. Select ‘Priority’ > Set Priority Level to ‘Emergency’ (since this is a business impacting event) > Select ‘Update’
+3. We can assign to an agent as well: select ‘Assigned To’ > select assignee ‘Jane Doe’ > select ‘Assign’
+4. Since this is severe business-impacting event, we want to alter the SLA accordingly: select ‘SLA Plan’ > set SLA to ‘SEV-A’
+5. If the entire system is down, it might be beyond the scope of the Help Desk: select ‘Department’ > transfer the ticket from ‘Support’ to ‘System Administrators’
+6. We can see the history of edits/things that have been changed so far and the thread of messages created as part of effective communication
+7. If we exit out and back into the panel, we can see some of the changes we’ve made: “Emergency” and “Assigned to Jane Doe”
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br>
+
+<h3>Working the Issue</h3>
+
+<p>We can go back inside of the ticket and communicate that the ticket was worked on/resolved.</p>
+
+<p>In this example: "Jerry from Systems Engineering found and corrected a failed load balancer. Mobile banking should be back up." 
+  
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<br>
+  
+<h3>Resolution</h3>
+
+1. The status of the ticket was changed to ‘Closed’ (since Jerry from Systems Engineering resolved the issue)
+2. When we navigate back to the Tickets portal and select ‘Closed’, we can see the ticket was moved there. 
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br>
+
+<h2>Accounting Department Adobe Ticket</h2>
+
+<h3>Assignment & Creation</h3>
+
+1. Navigate back to ‘Tickets’ portal & select ‘Entire Accounting Dept Adobe Reader Not Working’ ticket
+2. Open the ticket and work through it/give it proper assignments:
+
+- Priority: High
+
+<p>It’s not as crucial as mobile banking being down but if the entire accounting dept is experiencing difficulties, that has a relatively high impact.</p>
+
+- SLA: SEV-B
+- Assignee: John
+
+<p>We want to assign it to someone so that the delegated person can start working and reach out/communicate with the accounting department.</p>
+
+3. In the ticket thread, John and Ken can start collaborating:“Re-assigned to SEV-B, reached out to John for a warm hand off”
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br>
 
 
 
