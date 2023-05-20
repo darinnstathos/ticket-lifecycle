@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<h3>Intake</h3>
+<h3>Intake (All Tickets)</h3>
 
 <p>We’re going to act as end-users in order to create some tickets and acquire a better understanding on how the osTicket platform operates.</p>
 
@@ -65,7 +65,31 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br>
 
+<h3>Troubleshooting: Giving Jane Doe Permissions</h3>
 
+<p>Before continuing with the tutorial, we need to grant Jane Doe 'Supreme Admin' access. This will help us continue the rest of the project.</p>
+
+1. Navigate to the admin link: http://localhost/osTicket/scp/login.php
+2. Log in as Jane Doe: username: jane.doe / Password1
+3. When we login, we can see the tickets aren’t showing up so we’re going to troubleshoot by logging in as the admin and checking Jane’s permissions
+4. Navigate back to the admin login link: Login as 'Supreme Admin': (example: darin_admin)
+5. When we log in, we can see the tickets appear via the Agent Panel as Supreme Admin
+6. Select 'Admin Panel' > click ‘Agents’ > click ‘Jane Doe' 
+7. Select ‘Access’ > Under Extended Access: ‘Support’ for Department > click ‘Add’ > ‘Supreme Admin’ for Role > ‘Save Changes’
+8. Login with the admin link for Jane Doe again: 
+
+- username: jane.doe / Password1
+
+9. When we login, we can now see the tickets. That means, in this case, in order to work on Tickets, someone must be assigned specifically to the Support Department along with a role that will allow them to work on tickets 
+ 
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br>
+
+<h3>Assignment & Communication: Mobile Banking Ticket</h3>
 
 
 
