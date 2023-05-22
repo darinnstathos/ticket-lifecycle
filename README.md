@@ -77,6 +77,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 4. Navigate back to the admin login link: Login as 'Supreme Admin': (example: darin_admin)
 5. When we log in, we can see the tickets appear via the Agent Panel as Supreme Admin
 6. Select 'Admin Panel' > click ‘Agents’ > click ‘Jane Doe' 
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DrXitAx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 7. Select ‘Access’ > Under Extended Access: ‘Support’ for Department > click ‘Add’ > ‘Supreme Admin’ for Role > ‘Save Changes’
 8. Login with the admin link for Jane Doe again: 
 
