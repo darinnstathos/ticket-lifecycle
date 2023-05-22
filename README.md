@@ -129,8 +129,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 1. The status of the ticket was changed to ‘Closed’ (since Jerry from Systems Engineering resolved the issue)
 2. When we navigate back to the Tickets portal and select ‘Closed’, we can see the ticket was moved there. 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oy0O0ML.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br>
 
