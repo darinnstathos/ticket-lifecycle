@@ -120,7 +120,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>In this example: "Jerry from Systems Engineering found and corrected a failed load balancer. Mobile banking should be back up." 
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8ILZffg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <br>
   
