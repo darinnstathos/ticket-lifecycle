@@ -108,10 +108,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 6. We can see the history of edits/things that have been changed so far and the thread of messages created as part of effective communication
 7. If we exit out and back into the panel, we can see some of the changes we’ve made: “Emergency” and “Assigned to Jane Doe”
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img src="https://i.imgur.com/qnwOBvv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NrwgiW7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C8EztbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Cr78Mub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>
 
 <h3>Working the Issue</h3>
