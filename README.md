@@ -88,10 +88,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 9. When we login, we can now see the tickets. That means, in this case, in order to work on Tickets, someone must be assigned specifically to the Support Department along with a role that will allow them to work on tickets 
  
+<img src="https://i.imgur.com/44W51wa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 <br>
 
