@@ -43,7 +43,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 4. Select "Create Ticket"
 
-<img src="https://imgur.com/a/d4uda3K" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Creating a Ticket within osTicket"/>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br>
