@@ -72,13 +72,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 2. Log in as Jane Doe: username: jane.doe / Password1
 3. When we login, we can see the tickets aren’t showing up so we’re going to troubleshoot by logging in as the admin and checking Jane’s permissions
 
-<img src="https://i.imgur.com/DIzf2fX.png" height="80%" width="80%" alt="No Tickets appearing"/>
+<img src="https://i.imgur.com/EBkizSI.png" height="80%" width="80%" alt="No Tickets appearing"/>
 
 4. Navigate back to the admin login link: Login as 'Supreme Admin': (example: darin_admin)
 5. When we log in, we can see the tickets appear via the Agent Panel as Supreme Admin
 6. Select 'Admin Panel' > click ‘Agents’ > click ‘Jane Doe' 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DIzf2fX.png" height="80%" width="80%" alt="No Tickets appearing"/>
 <img src="https://i.imgur.com/DrXitAx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 7. Select ‘Access’ > Under Extended Access: ‘Support’ for Department > click ‘Add’ > ‘Supreme Admin’ for Role > ‘Save Changes’
