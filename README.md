@@ -43,8 +43,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 4. Select "Create Ticket"
 
-<img src="https://i.imgur.com/2FRSeYc.png" height="80%" width="80%" alt="Creating a Ticket within osTicket"/>
-<img src="https://i.imgur.com/exFFMAo.png" height="80%" width="80%" alt="Karens Ticket"/>
+<img src="https://i.imgur.com/pkYxnl0.png" height="80%" width="80%" alt="Creating a Ticket within osTicket"/>
+<img src="https://i.imgur.com/6sFmDTZ.png" height="80%" width="80%" alt="Karens Ticket"/>
 
 <br>
 
