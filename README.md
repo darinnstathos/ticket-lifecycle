@@ -184,9 +184,9 @@ In the meantime, I will research why the new version doesn't work on the account
 2. Mark the ticket as ‘Resolved’
 3. Navigate to 'Tickets' > 'Closed' > The ticket has moved here 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Q76kRCs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7zYRnzD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
