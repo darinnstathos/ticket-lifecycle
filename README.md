@@ -169,8 +169,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 In the meantime, I will research why the new version doesn't work on the accounting department's hardware”
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bG366fp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zpEuQhL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XEjW70H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br>
 
