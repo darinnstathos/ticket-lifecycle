@@ -188,9 +188,7 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 3. John can look inside the ticket and see the communication that happened with Jane Doe: We can see it was reassigned as a SEV-B issue. John can see the problem is that Adobe Reader not working. Since it’s a SEV-B, John can conclude he was 4 hours to fix this due to SLA ruling. 
 4. John can write in the Ticket Thread to communicate how we plans to solve the issue: 
 
-- Example: “Rolled back version of Adobe Reader to previous version allowing the accounting department to work. 
-
-In the meantime, I will research why the new version doesn't work on the accounting department's hardware”
+- Example: “Rolled back version of Adobe Reader to previous version allowing the accounting department to work. In the meantime, I will research why the new version doesn't work on the accounting department's hardware”
 
 <br>
 
