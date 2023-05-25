@@ -23,6 +23,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+<h2>Prerequisites</h2>
+
+In order to observe osTicket lifecycles, osTicket must have been already installed and have post-installation configurations.
+
+* Prerequisites and Installation Tutorial: https://github.com/darinnstathos/osticket-prereqs.git
+* Post-Installation Configurations Tutorial: https://github.com/darinnstathos/post-install-config.git
+
 <h2>Lifecycle Stages</h2>
 
 <h3>Intake (All Tickets)</h3>
