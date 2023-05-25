@@ -79,14 +79,20 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 2. Log in as Jane Doe: username: jane.doe / Password1
 3. When we login, we can see the tickets aren’t showing up so we’re going to troubleshoot by logging in as the admin and checking Jane’s permissions
 
+<br>
 <img src="https://i.imgur.com/EBkizSI.png" height="80%" width="80%" alt="No Tickets appearing"/>
+<br>
 
 4. Navigate back to the admin login link: Login as 'Supreme Admin': (example: darin_admin)
 5. When we log in, we can see the tickets appear via the Agent Panel as Supreme Admin
 6. Select 'Admin Panel' > click ‘Agents’ > click ‘Jane Doe' 
 
+<br>
+
 <img src="https://i.imgur.com/DIzf2fX.png" height="80%" width="80%" alt="No Tickets appearing"/>
 <img src="https://i.imgur.com/DrXitAx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<br>
 
 7. Select ‘Access’ > Under Extended Access: ‘Support’ for Department > click ‘Add’ > ‘Supreme Admin’ for Role > ‘Save Changes’
 8. Login with the admin link for Jane Doe again: 
@@ -94,7 +100,9 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 - username: jane.doe / Password1
 
 9. When we login, we can now see the tickets. That means, in this case, in order to work on Tickets, someone must be assigned specifically to the Support Department along with a role that will allow them to work on tickets 
- 
+
+<br>
+
 <img src="https://i.imgur.com/44W51wa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/nxO9mXF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -115,10 +123,13 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 6. We can see the history of edits/things that have been changed so far and the thread of messages created as part of effective communication
 7. If we exit out and back into the panel, we can see some of the changes we’ve made: “Emergency” and “Assigned to Jane Doe”
 
+<br>
+
 <img src="https://i.imgur.com/qnwOBvv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/NrwgiW7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/C8EztbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Cr78Mub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br>
 
 <h3>🟢 Working the Issue</h3>
@@ -126,6 +137,8 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 <p>We can go back inside of the ticket and communicate that the ticket was worked on/resolved.</p>
 
 <p>In this example: "Jerry from Systems Engineering found and corrected a failed load balancer. Mobile banking should be back up." 
+
+<br>
   
 <img src="https://i.imgur.com/8ILZffg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
@@ -135,6 +148,8 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 
 1. The status of the ticket was changed to ‘Closed’ (since Jerry from Systems Engineering resolved the issue)
 2. When we navigate back to the Tickets portal and select ‘Closed’, we can see the ticket was moved there. 
+
+<br>
 
 <img src="https://i.imgur.com/oy0O0ML.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -158,8 +173,9 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 
 3. In the ticket thread, John and Ken can start collaborating:“Re-assigned to SEV-B, reached out to John for a warm hand off”
 
-<img src="https://i.imgur.com/MbIiEC0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br>
 
+<img src="https://i.imgur.com/MbIiEC0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br>
 
@@ -175,6 +191,8 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 - Example: “Rolled back version of Adobe Reader to previous version allowing the accounting department to work. 
 
 In the meantime, I will research why the new version doesn't work on the accounting department's hardware”
+
+<br>
 
 <img src="https://i.imgur.com/bG366fp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/zpEuQhL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
