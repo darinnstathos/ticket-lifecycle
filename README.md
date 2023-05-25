@@ -32,7 +32,7 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 
 <h2>Lifecycle Stages</h2>
 
-<h3>Intake (All Tickets)</h3>
+<h3>🟢 Intake (All Tickets)</h3>
 
 <p>We’re going to act as end-users in order to create some tickets and acquire a better understanding on how the osTicket platform operates.</p>
 
@@ -71,7 +71,7 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 
 <br>
 
-<h3>Troubleshooting: Giving Jane Doe Permissions</h3>
+<h3>🔵 Troubleshooting: Giving Jane Doe Permissions</h3>
 
 <p>Before continuing with the tutorial, we need to grant Jane Doe 'Supreme Admin' access. This will help us continue the rest of the project.</p>
 
@@ -103,7 +103,7 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 
 <h2>Mobile Banking Ticket</h2>
 
-<h3>Assignment & Communication</h3>
+<h3>🟢 Assignment & Communication</h3>
 
 <p>We’re going to go through these tickets right now and edit them/tweak them. Right now, it appears that the tickets all have ‘Normal’ priority.</p>
 
@@ -121,7 +121,7 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 <img src="https://i.imgur.com/Cr78Mub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>
 
-<h3>Working the Issue</h3>
+<h3>🟢 Working the Issue</h3>
 
 <p>We can go back inside of the ticket and communicate that the ticket was worked on/resolved.</p>
 
@@ -131,7 +131,7 @@ In order to observe osTicket lifecycles, osTicket must have been already install
   
 <br>
   
-<h3>Resolution</h3>
+<h3>🟢 Resolution</h3>
 
 1. The status of the ticket was changed to ‘Closed’ (since Jerry from Systems Engineering resolved the issue)
 2. When we navigate back to the Tickets portal and select ‘Closed’, we can see the ticket was moved there. 
@@ -142,7 +142,7 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 
 <h2>Accounting Department Adobe Ticket</h2>
 
-<h3>Assignment & Creation</h3>
+<h3>🟢 Assignment & Creation</h3>
 
 1. Navigate back to ‘Tickets’ portal & select ‘Entire Accounting Dept Adobe Reader Not Working’ ticket
 2. Open the ticket and work through it/give it proper assignments:
@@ -163,7 +163,7 @@ In order to observe osTicket lifecycles, osTicket must have been already install
 
 <br>
 
-<h3>Working the Issue</h3>
+<h3>🟢 Working the Issue</h3>
 
 <p>Since this is John’s ticket now, we’re going to re-login to the Admin portal as John in order to start working on the ticket.</p>
 
@@ -182,7 +182,7 @@ In the meantime, I will research why the new version doesn't work on the account
 
 <br>
 
-<h3>Resolution</h3>
+<h3>🟢 Resolution</h3>
 
 1. For this example, John found the issue and now he’ll communicate in the Ticket Thread:
 
